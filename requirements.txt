@@ -1,0 +1,9 @@
+certifi==2019.11.28
+mkl-fft==1.0.15
+mkl-random==1.1.0
+mkl-service==2.3.0
+numpy==1.18.1
+PyQt5==5.14.2
+PyQt5-sip==12.7.2
+PyQtWebEngine==5.14.0
+six==1.14.0
